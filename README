@@ -1,0 +1,7 @@
+backing up and removing themes from:
+
+http://blog.codenoctis.com/2011/07/28/unity3d-3-4-mono-develop-and-dark-themes/
+
+mkdir ~/default_monotheme
+sudo mv /Applications/Unity/MonoDevelop.app/Contents/Frameworks/Mono.framework/Versions/2.6.7/share/themes/ ~/default_monotheme
+mv /Applications/Unity/MonoDevelop.app/Contents/Frameworks/Mono.framework/Versions/2.6.7/etc/gtk-2.0/gtkrc ~/default_monotheme
